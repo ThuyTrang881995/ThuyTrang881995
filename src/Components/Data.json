@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"name": "phan văn a",
+		"tel": "01234567891",
+		"permission": 1
+	},
+	{
+		"id": 2,
+		"name": "phạm văn b",
+		"tel": "01234567892",
+		"permission": 2
+	},
+	{
+		"id": 3,
+		"name": "trần văn c",
+		"tel": "01234567893",
+		"permission": 1
+	},
+	{
+		"id": 4,
+		"name": "phan văn d",
+		"tel": "01234567894",
+		"permission": 2
+	},
+	{
+		"id": 5,
+		"name": "nguyễn văn e",
+		"tel": "01234567895",
+		"permission": 3
+	},
+	{
+		"id": 6,
+		"name": "phan văn f",
+		"tel": "01234567896",
+		"permission": 3
+	},
+	{
+		"id": 7,
+		"name": "phan văn g",
+		"tel": "01234567897",
+		"permission": 2
+	}
+]
